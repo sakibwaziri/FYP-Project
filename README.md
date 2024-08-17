@@ -1,4 +1,4 @@
-# Detection of Conjunctivitis Desease using CNN
+# Detection of Conjunctivitis Disease using CNN
 
 ## Introduction
 
